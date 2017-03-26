@@ -282,7 +282,7 @@ int Search_k(LinkList &list, int k) {
 	}
 	cout << q -> next -> data << endl;
 	return 1;
-}*/
+}
 
 // 从带头结点的链表中删除所有其值重复的元素，使得表中所有元素的值均不同 
 void Del_same(LinkList &L) {
